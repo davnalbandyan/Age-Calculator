@@ -1,0 +1,14 @@
+{
+  "name": "calculate-your-age",
+  "version": "1.0.0",
+  "description": "calculation",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hello DN"
+  },
+  "author": "DN",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
